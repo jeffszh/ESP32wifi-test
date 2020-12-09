@@ -1,7 +1,7 @@
 #include "blink.h"
 #include "main.h"
 
-constexpr int LED_BUILTIN = 2;
+// constexpr int LED_BUILTIN = 2;
 
 static void blinkLoop() {
 	static int x = 0;
