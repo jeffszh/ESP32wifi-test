@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "201208-154001-arduino-blink",
+			"path": "C:\\Users\\lx-38kf8dhe\\Documents\\PlatformIO\\Projects\\201208-154001-arduino-blink"
+		},
+		{
+			"name": "201208-160318-espidf-blink",
+			"path": "C:\\Users\\lx-38kf8dhe\\Documents\\PlatformIO\\Projects\\201208-160318-espidf-blink"
+		},
+		{
+			"name": "201208-160714-arduino-wifiscan",
+			"path": "C:\\Users\\lx-38kf8dhe\\Documents\\PlatformIO\\Projects\\201208-160714-arduino-wifiscan"
+		}
+	],
+	"settings": {}
+}
